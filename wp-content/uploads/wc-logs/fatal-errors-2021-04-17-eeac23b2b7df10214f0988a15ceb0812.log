@@ -1,0 +1,20 @@
+2021-04-17T08:56:39+00:00 CRITICAL Uncaught Error: Call to undefined function posix_getgrgid() in C:\xampp\htdocs\a\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php:231
+Stack trace:
+#0 C:\xampp\htdocs\a\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(126): KUSANAGI_Security_Check->get_file_info('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\a\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(82): KUSANAGI_Security_Check->check_permission_wp_config()
+#2 C:\xampp\htdocs\a\wp-admin\includes\template.php(1345): KUSANAGI_Security_Check->kusanagi_security_information('', Array)
+#3 C:\xampp\htdocs\a\wp-admin\includes\dashboard.php(246): do_meta_boxes(Object(WP_Screen), 'normal', '')
+#4 C:\xampp\htdocs\a\wp-admin\index.php(148): wp_dashboard()
+#5 {main}
+  thrown in C:\xampp\htdocs\a\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php on line 231
+
+2021-04-17T09:20:47+00:00 CRITICAL Uncaught Error: Call to undefined function posix_getgrgid() in C:\xampp\htdocs\a\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php:231
+Stack trace:
+#0 C:\xampp\htdocs\a\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(126): KUSANAGI_Security_Check->get_file_info('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\a\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(82): KUSANAGI_Security_Check->check_permission_wp_config()
+#2 C:\xampp\htdocs\a\wp-admin\includes\template.php(1345): KUSANAGI_Security_Check->kusanagi_security_information('', Array)
+#3 C:\xampp\htdocs\a\wp-admin\includes\dashboard.php(246): do_meta_boxes(Object(WP_Screen), 'normal', '')
+#4 C:\xampp\htdocs\a\wp-admin\index.php(148): wp_dashboard()
+#5 {main}
+  thrown in C:\xampp\htdocs\a\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php on line 231
+

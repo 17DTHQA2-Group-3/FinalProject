@@ -1,0 +1,1593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Status Tracking Plugin\n"
+"POT-Creation-Date: 2018-10-10 13:03-0400\n"
+"PO-Revision-Date: 2018-10-10 13:03-0400\n"
+"Last-Translator: \n"
+"Language-Team: Etoile Web Design\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Functions/EWD_OTP_Deactivation_Survey.php:41
+msgid "Quick Feedback"
+msgstr ""
+
+#: Functions/EWD_OTP_Deactivation_Survey.php:42
+msgid ""
+"If you have a moment, please share why you are deactivating Ultimate FAQs:"
+msgstr ""
+
+#: Functions/EWD_OTP_Deactivation_Survey.php:57
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: Functions/EWD_OTP_Deactivation_Survey.php:58
+msgid "Skip and Deactivate"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:26
+#: Functions/EWD_OTP_Return_Results.php:321
+#: Functions/EWD_OTP_Return_Results.php:584
+#: Shortcodes/InsertTrackingForm.php:51 Shortcodes/InsertTrackingForm.php:70
+#: html/AddOrder.php:44 html/DashboardPage.php:71 html/OptionsPage.php:1081
+#: html/OrdersDetails.php:47 html/OrdersPage.php:119 html/OrdersPage.php:177
+#: html/OrdersPage.php:306
+msgid "Order Number"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:29
+#: Functions/EWD_OTP_Return_Results.php:324
+#: Functions/EWD_OTP_Return_Results.php:587
+#: Shortcodes/InsertCustomerOrderForm.php:13 html/AddOrder.php:36
+#: html/OptionsPage.php:1085 html/OptionsPage.php:1172
+#: html/OrdersDetails.php:39
+msgid "Order Name"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:32
+#: Functions/EWD_OTP_Return_Results.php:327
+#: Functions/EWD_OTP_Return_Results.php:590 html/AddOrder.php:121
+#: html/OptionsPage.php:1089 html/OrdersDetails.php:124
+msgid "Order Notes"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:35
+#: Shortcodes/InsertCustomerOrderForm.php:17 html/OptionsPage.php:1093
+#: html/OptionsPage.php:1184 html/OrdersPage.php:147 html/OrdersPage.php:205
+msgid "Customer Notes"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:37
+msgid "Order Payment"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:38
+msgid "Payment Completed"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:40 html/OptionsPage.php:1109
+msgid "Current Location"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:42
+msgid "Print"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:44
+#: Functions/EWD_OTP_Return_Results.php:330
+#: Functions/EWD_OTP_Return_Results.php:593
+#: Functions/EWD_OTP_Woo_Commerce_Integration.php:203 html/AddOrder.php:57
+#: html/OptionsPage.php:1097 html/OrdersDetails.php:60
+#: html/OrdersDetails.php:159 html/OrdersDetails.php:177
+#: html/OrdersPage.php:316
+msgid "Order Status"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:47
+#: Functions/EWD_OTP_Return_Results.php:333
+#: Functions/EWD_OTP_Return_Results.php:596
+#: Functions/EWD_OTP_Woo_Commerce_Integration.php:204 html/AddOrder.php:68
+#: html/OptionsPage.php:1101 html/OrdersDetails.php:71
+#: html/OrdersDetails.php:160 html/OrdersDetails.php:178
+#: html/OrdersPage.php:326
+msgid "Order Location"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:50
+#: Functions/EWD_OTP_Return_Results.php:336
+#: Functions/EWD_OTP_Return_Results.php:599 html/OptionsPage.php:1105
+msgid "Order Updated"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:54 Shortcodes/InsertTrackingForm.php:45
+msgid "Add Note"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:82
+#: Functions/EWD_OTP_Return_Results.php:83
+#: Functions/EWD_OTP_Return_Results.php:749
+#: Functions/EWD_OTP_Return_Results.php:750
+msgid "There are no order statuses for tracking number: "
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:375
+#: Functions/EWD_OTP_Return_Results.php:710 html/CustomersPage.php:55
+#: html/CustomersPage.php:80 html/CustomersPage.php:176
+#: html/OptionsPage.php:1126
+msgid "Customer Name"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:389
+#: Shortcodes/InsertCustomerForm.php:32 Shortcodes/InsertCustomerForm.php:38
+#: html/CustomersPage.php:181 html/OptionsPage.php:1130
+msgid "Customer Email"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:630 html/OptionsPage.php:1143
+msgid "Sales Rep First Name"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:645 html/OptionsPage.php:1147
+msgid "Sales Rep Last Name"
+msgstr ""
+
+#: Functions/EWD_OTP_Return_Results.php:847
+msgid "Order payment for order number "
+msgstr ""
+
+#: Functions/EWD_OTP_Styling.php:41
+msgid "Styles have been succesfully reset."
+msgstr ""
+
+#: Functions/EWD_OTP_UWPM_Email_Integration.php:173
+msgid "Track your order!"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:10
+msgid "Order Tracking Form"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:11
+msgid "Insert an order tracking form"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:37 html/OptionsPage.php:994
+#: html/OptionsPage.php:1027
+msgid "Form Title"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:38
+msgid "Order Field Text"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:39
+msgid "Email Text"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:40
+msgid "Form Instructions"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:41
+msgid "Submit Text"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:45
+msgid "Form Title:"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:49
+msgid "Order Field Text:"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:53
+msgid "Email Text:"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:57
+msgid "Form Instructions:"
+msgstr ""
+
+#: Functions/EWD_OTP_Widgets.php:61
+msgid "Submit Text:"
+msgstr ""
+
+#: Functions/EWD_OTP_Woo_Commerce_Integration.php:157
+msgid "Change status to "
+msgstr ""
+
+#: Functions/EWD_OTP_Woo_Commerce_Integration.php:200
+msgid "Tracking Information"
+msgstr ""
+
+#: Functions/EWD_OTP_Woo_Commerce_Integration.php:205
+#: html/CustomerDetails.php:14 html/CustomerDetails.php:32
+#: html/DashboardPage.php:74 html/OrdersPage.php:157 html/OrdersPage.php:215
+#: html/SalesRepDetails.php:14 html/SalesRepDetails.php:32
+msgid "Updated"
+msgstr ""
+
+#: Functions/EWD_OTP_Woo_Commerce_Integration.php:219
+msgid "View Detailed Tracking Information"
+msgstr ""
+
+#: Functions/EWD_OTP_Woo_Commerce_Integration.php:233
+msgid "Location:"
+msgstr ""
+
+#: Functions/Full_Upgrade.php:8
+msgid "Trial successfully started!"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:109 html/CustomerDetails.php:11
+#: html/CustomerDetails.php:29 html/SalesRepDetails.php:11
+#: html/SalesRepDetails.php:29
+msgid "Order"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:140
+#: Functions/Update_Admin_Databases.php:88
+msgid "Order has been successfully created."
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:346
+#: Functions/Prepare_Data_For_Insertion.php:664
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:349
+#: Functions/Prepare_Data_For_Insertion.php:667
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:352
+#: Functions/Prepare_Data_For_Insertion.php:670
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:355
+#: Functions/Prepare_Data_For_Insertion.php:673
+#: Functions/Prepare_Data_For_Insertion.php:717
+#: Functions/Prepare_Data_For_Insertion.php:719
+msgid "No file was uploaded."
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:359
+#: Functions/Prepare_Data_For_Insertion.php:677
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:362
+#: Functions/Prepare_Data_For_Insertion.php:680
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:365
+#: Functions/Prepare_Data_For_Insertion.php:683
+msgid "File upload stopped by extension"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:369
+#: Functions/Prepare_Data_For_Insertion.php:687
+msgid "No error code avaiable"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:374
+#: Functions/Prepare_Data_For_Insertion.php:692
+msgid "No file was uploaded here.."
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:379
+msgid "File must be .csv, .xls or .xlsx"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:439
+#: Functions/Prepare_Data_For_Insertion.php:745
+msgid "Orders have been successfully deleted."
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:455
+msgid "Sales Reps have been successfully deleted."
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:471
+msgid "Customers have been successfully deleted."
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:487
+msgid "Orders have been successfully hidden."
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:530
+msgid "Orders have been successfully updated."
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:580
+msgid "Order has been successfully updated.<br/>"
+msgstr ""
+
+#: Functions/Prepare_Data_For_Insertion.php:633
+msgid "Field(s) have been successfully deleted."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:81
+#: Functions/Update_Admin_Databases.php:180
+#: Functions/Update_Admin_Databases.php:618
+#: Functions/Update_Admin_Databases.php:682
+#: Functions/Update_Admin_Databases.php:754
+#: Functions/Update_Admin_Databases.php:820
+msgid " One or more custom field values were incorrect."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:187
+msgid "Order has been successfully edited."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:211
+msgid "Order status has been successfully edited."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:221
+msgid "Order status has been successfully deleted."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:234
+msgid "Order has been successfully hidden."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:256
+msgid "Order has been successfully deleted."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:303
+msgid "You have a column which is not recognized: "
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:303
+msgid ""
+". <br>Please make sure that the column names match the order field labels "
+"exactly (without the word order)."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:308
+msgid ""
+"You have a blank column that has been edited.<br>Please delete that column "
+"and re-upload your spreadsheet."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:415
+msgid "Orders added successfully."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:443
+msgid "Statuses have been successfully updated."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:461
+msgid "Status has been successfully deleted."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:487
+msgid "Locations have been successfully updated."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:504
+msgid "Location has been successfully deleted."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:529
+msgid "Field has been successfully created."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:554
+msgid "Field has been successfully edited."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:571
+msgid "Field has been successfully deleted."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:625
+msgid "Sales Rep has been successfully created."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:689
+msgid "Sales Rep has been successfully edited."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:706
+msgid "Sales Rep has been successfully deleted."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:761
+msgid "Customer has been successfully created."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:827
+msgid "Customer has been successfully edited."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:844
+msgid "Customer has been successfully deleted."
+msgstr ""
+
+#: Functions/Update_Admin_Databases.php:857
+msgid "Note has been successfully edited."
+msgstr ""
+
+#: Functions/Update_EWD_OTP_Content.php:85
+msgid "The form has not worked correctly. Please contact the plugin developer."
+msgstr ""
+
+#: Main.php:197
+msgid "Next"
+msgstr ""
+
+#: Main.php:198
+msgid "Close"
+msgstr ""
+
+#: Shortcodes/InsertCustomerForm.php:26
+msgid "Enter your customer ID in the form below to track your orders."
+msgstr ""
+
+#: Shortcodes/InsertCustomerForm.php:28 Shortcodes/InsertSalesRepForm.php:28
+msgid "Track Your Orders"
+msgstr ""
+
+#: Shortcodes/InsertCustomerForm.php:30 Shortcodes/InsertCustomerForm.php:36
+msgid "Customer Number"
+msgstr ""
+
+#: Shortcodes/InsertCustomerForm.php:34 Shortcodes/InsertSalesRepForm.php:38
+#: Shortcodes/InsertTrackingForm.php:58 Shortcodes/InsertTrackingForm.php:72
+msgid "Track"
+msgstr ""
+
+#: Shortcodes/InsertCustomerForm.php:98 Shortcodes/InsertSalesRepForm.php:90
+#: Shortcodes/InsertTrackingForm.php:41 html/OptionsPage.php:1077
+msgid "Order Information"
+msgstr ""
+
+#: Shortcodes/InsertCustomerOrderForm.php:15 html/OptionsPage.php:1176
+msgid "Order Email Address"
+msgstr ""
+
+#: Shortcodes/InsertCustomerOrderForm.php:19
+msgid "Send Order"
+msgstr ""
+
+#: Shortcodes/InsertCustomerOrderForm.php:21
+msgid "Thank you. Your order number is: "
+msgstr ""
+
+#: Shortcodes/InsertCustomerOrderForm.php:23
+msgid ""
+"The email address to send order updates to, if the site administrator has "
+"selected that option."
+msgstr ""
+
+#: Shortcodes/InsertSalesRepForm.php:26
+msgid "Enter your sales rep number in the form below to track your orders."
+msgstr ""
+
+#: Shortcodes/InsertSalesRepForm.php:30 Shortcodes/InsertSalesRepForm.php:32
+msgid "Sales Rep Number"
+msgstr ""
+
+#: Shortcodes/InsertSalesRepForm.php:34 Shortcodes/InsertSalesRepForm.php:36
+#: html/SalesRepDetails.php:63 html/SalesRepsPage.php:199
+msgid "Sales Rep Email"
+msgstr ""
+
+#: Shortcodes/InsertTrackingForm.php:50 Shortcodes/InsertTrackingForm.php:69
+msgid "Track an Order"
+msgstr ""
+
+#: Shortcodes/InsertTrackingForm.php:52 Shortcodes/InsertTrackingForm.php:71
+msgid "Order E-mail Address"
+msgstr ""
+
+#: Shortcodes/InsertTrackingForm.php:56 Shortcodes/InsertTrackingForm.php:68
+msgid "Enter the order number you would like to track in the form below."
+msgstr ""
+
+#: html/AddOrder.php:26 html/AddOrder.php:153
+msgid "Add Order"
+msgstr ""
+
+#: html/AddOrder.php:40 html/OrdersDetails.php:43
+msgid "Order Details"
+msgstr ""
+
+#: html/AddOrder.php:50 html/OrdersDetails.php:53 html/OrdersPage.php:311
+msgid "Order Email"
+msgstr ""
+
+#: html/AddOrder.php:53 html/OrdersDetails.php:56 html/OrdersPage.php:313
+msgid ""
+"The e-mail address to send order updates to, if you have selected that "
+"option."
+msgstr ""
+
+#: html/AddOrder.php:80 html/OrdersDetails.php:83 html/OrdersPage.php:337
+msgid "Customer"
+msgstr ""
+
+#: html/AddOrder.php:97 html/CustomersPage.php:62 html/CustomersPage.php:87
+#: html/OrdersDetails.php:100 html/OrdersPage.php:353
+msgid "Sales Rep"
+msgstr ""
+
+#: html/AddOrder.php:109 html/OrdersDetails.php:112 html/OrdersPage.php:392
+msgid "Show in Admin Table?"
+msgstr ""
+
+#: html/AddOrder.php:113 html/OrdersDetails.php:116 html/OrdersPage.php:395
+msgid "Should this order appear in the orders table in the admin area?"
+msgstr ""
+
+#: html/AddOrder.php:125 html/OrdersDetails.php:128 html/OrdersPage.php:382
+msgid "Public Order Notes"
+msgstr ""
+
+#: html/AddOrder.php:128 html/OrdersDetails.php:131
+msgid ""
+"The notes visitors will see if you've included 'Notes' on the options page."
+msgstr ""
+
+#: html/AddOrder.php:132 html/OrdersDetails.php:135 html/OrdersPage.php:387
+msgid "Private Order Notes"
+msgstr ""
+
+#: html/AddOrder.php:135 html/OrdersDetails.php:138
+msgid "Visible only to admins."
+msgstr ""
+
+#: html/AddOrder.php:139 html/OrdersDetails.php:142
+msgid "Customer Order Notes"
+msgstr ""
+
+#: html/AddOrder.php:142 html/OrdersDetails.php:145
+msgid "The notes about an order posted by the customer from the front-end."
+msgstr ""
+
+#: html/AddOrder.php:156 html/OrdersDetails.php:193
+msgid "Need Help?"
+msgstr ""
+
+#: html/AddOrder.php:166 html/MainScreen.php:11 html/OrdersDetails.php:203
+msgid "Custom Fields"
+msgstr ""
+
+#: html/AddOrder.php:233 html/OrdersDetails.php:286
+msgid "PayPal Payment"
+msgstr ""
+
+#: html/AddOrder.php:237 html/OrdersDetails.php:290 html/OrdersPage.php:365
+msgid "Order Payment Price"
+msgstr ""
+
+#: html/AddOrder.php:243 html/OrdersDetails.php:296 html/OrdersPage.php:370
+msgid "Payment Completed?"
+msgstr ""
+
+#: html/AddOrder.php:247 html/OrdersDetails.php:300
+msgid "This field should automatically update when payment is made."
+msgstr ""
+
+#: html/AddOrder.php:251 html/OrdersDetails.php:304 html/OrdersPage.php:376
+msgid "PayPal Transaction ID"
+msgstr ""
+
+#: html/AddOrder.php:254 html/OrdersDetails.php:307
+msgid ""
+"The transaction ID generated by PayPal for this order (leave blank until "
+"payment is made)."
+msgstr ""
+
+#: html/AdminHeader.php:2
+msgid "Status Tracking Settings"
+msgstr ""
+
+#: html/CustomFieldDetails.php:8 html/CustomerDetails.php:46
+#: html/SalesRepDetails.php:45
+msgid "Back"
+msgstr ""
+
+#: html/CustomFieldDetails.php:16 html/CustomFieldsPage.php:191
+msgid "Name of Field"
+msgstr ""
+
+#: html/CustomFieldDetails.php:20 html/CustomFieldsPage.php:195
+msgid "Slug"
+msgstr ""
+
+#: html/CustomFieldDetails.php:22 html/CustomFieldsPage.php:197
+msgid "An all-lowercase name that will be used to insert the field."
+msgstr ""
+
+#: html/CustomFieldDetails.php:25 html/CustomFieldsPage.php:69
+#: html/CustomFieldsPage.php:103 html/CustomFieldsPage.php:200
+msgid "Type"
+msgstr ""
+
+#: html/CustomFieldDetails.php:27 html/CustomFieldsPage.php:202
+msgid "Short Text"
+msgstr ""
+
+#: html/CustomFieldDetails.php:28 html/CustomFieldsPage.php:203
+msgid "Integer"
+msgstr ""
+
+#: html/CustomFieldDetails.php:29 html/CustomFieldsPage.php:204
+msgid "Select Box"
+msgstr ""
+
+#: html/CustomFieldDetails.php:30 html/CustomFieldsPage.php:205
+msgid "Radio Button"
+msgstr ""
+
+#: html/CustomFieldDetails.php:31 html/CustomFieldsPage.php:206
+msgid "Checkbox"
+msgstr ""
+
+#: html/CustomFieldDetails.php:32 html/CustomFieldsPage.php:207
+msgid "Text Area"
+msgstr ""
+
+#: html/CustomFieldDetails.php:33 html/CustomFieldsPage.php:208
+msgid "File"
+msgstr ""
+
+#: html/CustomFieldDetails.php:34 html/CustomFieldsPage.php:209
+msgid "Picture"
+msgstr ""
+
+#: html/CustomFieldDetails.php:35 html/CustomFieldsPage.php:210
+msgid "Date"
+msgstr ""
+
+#: html/CustomFieldDetails.php:36 html/CustomFieldsPage.php:211
+msgid "Date/Time"
+msgstr ""
+
+#: html/CustomFieldDetails.php:38 html/CustomFieldsPage.php:213
+msgid ""
+"The input method for the field and type of data that the field will hold."
+msgstr ""
+
+#: html/CustomFieldDetails.php:41 html/CustomFieldsPage.php:76
+#: html/CustomFieldsPage.php:110 html/CustomFieldsPage.php:216
+msgid "Description"
+msgstr ""
+
+#: html/CustomFieldDetails.php:43 html/CustomFieldsPage.php:218
+msgid ""
+"The description of the field, which you will see as the instruction for the "
+"field."
+msgstr ""
+
+#: html/CustomFieldDetails.php:46 html/CustomFieldsPage.php:221
+msgid "Input Values"
+msgstr ""
+
+#: html/CustomFieldDetails.php:48 html/CustomFieldsPage.php:223
+msgid ""
+"A comma-separated list of acceptable input values for this field. These "
+"values will be the options for select, checkbox, and radio inputs."
+msgstr ""
+
+#: html/CustomFieldDetails.php:51 html/CustomFieldsPage.php:226
+msgid "Display in Customer Order Form?"
+msgstr ""
+
+#: html/CustomFieldDetails.php:52 html/CustomFieldDetails.php:59
+#: html/CustomFieldDetails.php:97 html/CustomFieldsPage.php:227
+#: html/CustomFieldsPage.php:234 html/CustomFieldsPage.php:273
+msgid "Yes"
+msgstr ""
+
+#: html/CustomFieldDetails.php:53 html/CustomFieldDetails.php:60
+#: html/CustomFieldDetails.php:98 html/CustomFieldsPage.php:228
+#: html/CustomFieldsPage.php:235 html/CustomFieldsPage.php:274
+msgid "No"
+msgstr ""
+
+#: html/CustomFieldDetails.php:54 html/CustomFieldsPage.php:229
+msgid "Use 'Input Values' above to restrict inputs."
+msgstr ""
+
+#: html/CustomFieldDetails.php:55 html/CustomFieldsPage.php:230
+msgid ""
+"Use caution for 'File' and 'Picture' type fields, as putting the customer-"
+"order shortcode on a public page with either of these field types can be a "
+"security risk."
+msgstr ""
+
+#: html/CustomFieldDetails.php:58 html/CustomFieldsPage.php:233
+msgid "Required in Customer Order Form?"
+msgstr ""
+
+#: html/CustomFieldDetails.php:63 html/CustomFieldsPage.php:238
+msgid "WooCommerce Field Equivalent"
+msgstr ""
+
+#: html/CustomFieldDetails.php:65 html/CustomFieldsPage.php:240
+#: html/StatusesPage.php:41 html/StatusesPage.php:86
+msgid "None"
+msgstr ""
+
+#: html/CustomFieldDetails.php:66 html/CustomFieldsPage.php:241
+msgid "Order Total"
+msgstr ""
+
+#: html/CustomFieldDetails.php:67 html/CustomFieldsPage.php:242
+msgid "Order Currency"
+msgstr ""
+
+#: html/CustomFieldDetails.php:68 html/CustomFieldsPage.php:243
+msgid "Billing First Name"
+msgstr ""
+
+#: html/CustomFieldDetails.php:69 html/CustomFieldsPage.php:244
+msgid "Billing Last Name"
+msgstr ""
+
+#: html/CustomFieldDetails.php:70 html/CustomFieldsPage.php:245
+msgid "Billing Company"
+msgstr ""
+
+#: html/CustomFieldDetails.php:71 html/CustomFieldsPage.php:246
+msgid "Billing City"
+msgstr ""
+
+#: html/CustomFieldDetails.php:72 html/CustomFieldsPage.php:247
+msgid "Billing Country"
+msgstr ""
+
+#: html/CustomFieldDetails.php:73 html/CustomFieldsPage.php:248
+msgid "Billing Email"
+msgstr ""
+
+#: html/CustomFieldDetails.php:74 html/CustomFieldsPage.php:249
+msgid "Billing Phone"
+msgstr ""
+
+#: html/CustomFieldDetails.php:75 html/CustomFieldsPage.php:250
+msgid "Shipping First Name"
+msgstr ""
+
+#: html/CustomFieldDetails.php:76 html/CustomFieldsPage.php:251
+msgid "Shipping Last Name"
+msgstr ""
+
+#: html/CustomFieldDetails.php:77 html/CustomFieldsPage.php:252
+msgid "Shipping Company"
+msgstr ""
+
+#: html/CustomFieldDetails.php:78 html/CustomFieldsPage.php:253
+msgid "Shipping City"
+msgstr ""
+
+#: html/CustomFieldDetails.php:79 html/CustomFieldsPage.php:254
+msgid "Shipping Country"
+msgstr ""
+
+#: html/CustomFieldDetails.php:80 html/CustomFieldsPage.php:255
+msgid "Shipping Email"
+msgstr ""
+
+#: html/CustomFieldDetails.php:81 html/CustomFieldsPage.php:256
+msgid "Shipping Phone"
+msgstr ""
+
+#: html/CustomFieldDetails.php:83 html/CustomFieldsPage.php:258
+msgid ""
+"If you are important orders from WooCommerce, what field is this equivalent "
+"to?"
+msgstr ""
+
+#: html/CustomFieldDetails.php:86 html/CustomFieldsPage.php:262
+msgid "Field For?"
+msgstr ""
+
+#: html/CustomFieldDetails.php:88 html/CustomFieldsPage.php:264
+#: html/MainScreen.php:5 html/MainScreen_Sales_Rep.php:3
+msgid "Orders"
+msgstr ""
+
+#: html/CustomFieldDetails.php:89 html/CustomFieldsPage.php:265
+#: html/MainScreen.php:9
+msgid "Customers"
+msgstr ""
+
+#: html/CustomFieldDetails.php:90 html/CustomFieldsPage.php:266
+#: html/MainScreen.php:8
+msgid "Sales Reps"
+msgstr ""
+
+#: html/CustomFieldDetails.php:92 html/CustomFieldsPage.php:268
+msgid "What should this field apply to: orders, customers or sales reps?"
+msgstr ""
+
+#: html/CustomFieldDetails.php:96 html/CustomFieldsPage.php:272
+msgid "Display in Admin Table?"
+msgstr ""
+
+#: html/CustomFieldDetails.php:101 html/CustomerDetails.php:176
+#: html/SalesRepDetails.php:159
+msgid "Save Changes"
+msgstr ""
+
+#: html/CustomFieldsPage.php:31 html/CustomFieldsPage.php:155
+#: html/CustomersPage.php:31 html/CustomersPage.php:142 html/OrdersPage.php:88
+#: html/SalesRepsPage.php:31 html/SalesRepsPage.php:155
+msgid "Bulk Actions"
+msgstr ""
+
+#: html/CustomFieldsPage.php:32 html/CustomFieldsPage.php:132
+#: html/CustomFieldsPage.php:156 html/CustomersPage.php:119
+#: html/CustomersPage.php:143 html/LocationsPage.php:37 html/OrdersPage.php:94
+#: html/SalesRepsPage.php:131 html/SalesRepsPage.php:156
+#: html/StatusesPage.php:63
+msgid "Delete"
+msgstr ""
+
+#: html/CustomFieldsPage.php:34 html/CustomFieldsPage.php:158
+#: html/CustomersPage.php:34 html/OrdersPage.php:96 html/SalesRepsPage.php:34
+msgid "Apply"
+msgstr ""
+
+#: html/CustomFieldsPage.php:37 html/CustomFieldsPage.php:161
+#: html/CustomersPage.php:37 html/CustomersPage.php:148 html/OrdersPage.php:99
+#: html/OrdersPage.php:270 html/SalesRepsPage.php:37 html/SalesRepsPage.php:161
+msgid "items"
+msgstr ""
+
+#: html/CustomFieldsPage.php:41 html/CustomFieldsPage.php:165
+#: html/CustomersPage.php:41 html/CustomersPage.php:152 html/OrdersPage.php:103
+#: html/OrdersPage.php:274 html/SalesRepsPage.php:41 html/SalesRepsPage.php:165
+msgid "of"
+msgstr ""
+
+#: html/CustomFieldsPage.php:55 html/CustomFieldsPage.php:89
+msgid "Field Name"
+msgstr ""
+
+#: html/CustomFieldsPage.php:62 html/CustomFieldsPage.php:96
+msgid "Field Slug"
+msgstr ""
+
+#: html/CustomFieldsPage.php:184 html/CustomFieldsPage.php:277
+msgid "Add New Field"
+msgstr ""
+
+#: html/CustomFieldsPage.php:288 html/CustomersPage.php:291
+#: html/LocationsPage.php:73 html/OrdersPage.php:476 html/SalesRepsPage.php:289
+#: html/StatisticsPage.php:84
+msgid "Full Version Required!"
+msgstr ""
+
+#: html/CustomFieldsPage.php:290
+msgid "The full version of Order Tracking is required to use custom fields."
+msgstr ""
+
+#: html/CustomFieldsPage.php:290 html/CustomersPage.php:293
+#: html/LocationsPage.php:75 html/OrdersPage.php:478 html/SalesRepsPage.php:291
+#: html/StatisticsPage.php:86
+msgid " Please upgrade to unlock this page!"
+msgstr ""
+
+#: html/CustomerDetails.php:6
+msgid "Customer Orders"
+msgstr ""
+
+#: html/CustomerDetails.php:12 html/CustomerDetails.php:30
+#: html/DashboardPage.php:73 html/OrdersPage.php:137 html/OrdersPage.php:195
+#: html/SalesRepDetails.php:12 html/SalesRepDetails.php:30
+#: html/StatusesPage.php:16 html/StatusesPage.php:25
+msgid "Status"
+msgstr ""
+
+#: html/CustomerDetails.php:13 html/CustomerDetails.php:31
+#: html/LocationsPage.php:16 html/LocationsPage.php:24
+#: html/SalesRepDetails.php:13 html/SalesRepDetails.php:31
+msgid "Location"
+msgstr ""
+
+#: html/CustomerDetails.php:47 html/SalesRepDetails.php:46
+msgid "Edit "
+msgstr ""
+
+#: html/CustomerDetails.php:47
+msgid " (Customer ID: "
+msgstr ""
+
+#: html/CustomerDetails.php:54 html/DashboardPage.php:72
+#: html/OrdersPage.php:128 html/OrdersPage.php:186 html/OrdersPage.php:301
+msgid "Name"
+msgstr ""
+
+#: html/CustomerDetails.php:56 html/CustomersPage.php:178
+msgid "The name of the customer."
+msgstr ""
+
+#: html/CustomerDetails.php:59 html/StatusesPage.php:18
+#: html/StatusesPage.php:27 html/StatusesPage.php:84
+msgid "Email"
+msgstr ""
+
+#: html/CustomerDetails.php:61 html/CustomersPage.php:183
+msgid "The email address of the customer."
+msgstr ""
+
+#: html/CustomerDetails.php:64 html/CustomersPage.php:186
+msgid "Sales Rep ID"
+msgstr ""
+
+#: html/CustomerDetails.php:66 html/CustomersPage.php:188
+msgid "The sales rep's ID for this customer."
+msgstr ""
+
+#: html/CustomerDetails.php:69 html/CustomersPage.php:191
+msgid "Customer WP Username:"
+msgstr ""
+
+#: html/CustomerDetails.php:82 html/CustomersPage.php:202
+msgid "What WordPress user, if any, is assigned to this customer?"
+msgstr ""
+
+#: html/CustomerDetails.php:85 html/CustomersPage.php:205
+msgid "Customer FEUP Username:"
+msgstr ""
+
+#: html/CustomerDetails.php:98 html/CustomersPage.php:218
+msgid ""
+"What FEUP user, if any, is assigned to this customer? For more information "
+"on FEUP users:"
+msgstr ""
+
+#: html/CustomersPage.php:170
+msgid "Add a New Customer"
+msgstr ""
+
+#: html/CustomersPage.php:284
+msgid "Add New Customer"
+msgstr ""
+
+#: html/CustomersPage.php:293
+msgid ""
+"The full version of Order Tracking is required to use the customers feature."
+msgstr ""
+
+#: html/DashboardPage.php:25
+msgid "Enter Product Key Here"
+msgstr ""
+
+#: html/DashboardPage.php:26
+msgid "UNLOCK PREMIUM"
+msgstr ""
+
+#: html/EmailsPage.php:28
+msgid "Customize Your Emails With"
+msgstr ""
+
+#: html/EmailsPage.php:43
+msgid "Download Now"
+msgstr ""
+
+#: html/EmailsPage.php:45
+msgid "Remind Me Later"
+msgstr ""
+
+#: html/EmailsPage.php:54
+msgid ""
+"<strong>REMINDER:</strong> If you're having trouble with sending emails, we "
+"recommend you use a plugin such as <a href=\"https://wordpress.org/plugins/"
+"wp-mail-smtp/\" target=\"_blank\">WP Mail SMTP</a> to configure your SMTP "
+"settings."
+msgstr ""
+
+#: html/EmailsPage.php:64
+msgid "Email Options"
+msgstr ""
+
+#: html/EmailsPage.php:146
+msgid "ADD"
+msgstr ""
+
+#: html/LocationsPage.php:17 html/LocationsPage.php:25
+msgid "Latitude"
+msgstr ""
+
+#: html/LocationsPage.php:18 html/LocationsPage.php:26
+msgid "Longitude"
+msgstr ""
+
+#: html/LocationsPage.php:49
+msgid "Name of Location"
+msgstr ""
+
+#: html/LocationsPage.php:53
+msgid "Location Latitude"
+msgstr ""
+
+#: html/LocationsPage.php:55
+msgid "The latitude of the location, if you'd like it to display on the map."
+msgstr ""
+
+#: html/LocationsPage.php:58
+msgid "Location Longitude"
+msgstr ""
+
+#: html/LocationsPage.php:60
+msgid "The longitude of the location, if you'd like it to display on the map."
+msgstr ""
+
+#: html/LocationsPage.php:75
+msgid "The full version of Order Tracking is required to use locations."
+msgstr ""
+
+#: html/MainScreen.php:3
+msgid "MENU"
+msgstr ""
+
+#: html/MainScreen.php:4
+msgid "Dashboard"
+msgstr ""
+
+#: html/MainScreen.php:6
+msgid "Statuses"
+msgstr ""
+
+#: html/MainScreen.php:7
+msgid "Locations"
+msgstr ""
+
+#: html/MainScreen.php:10
+msgid "Emails"
+msgstr ""
+
+#: html/MainScreen.php:12
+msgid "Statistics"
+msgstr ""
+
+#: html/MainScreen.php:13
+msgid "Options"
+msgstr ""
+
+#: html/OptionsPage.php:140
+msgid "Basic Options"
+msgstr ""
+
+#: html/OptionsPage.php:437
+msgid "Premium Options"
+msgstr ""
+
+#: html/OptionsPage.php:578
+msgid "Payment Options"
+msgstr ""
+
+#: html/OptionsPage.php:632
+msgid "Australian Dollar"
+msgstr ""
+
+#: html/OptionsPage.php:633
+msgid "Brazilian Real"
+msgstr ""
+
+#: html/OptionsPage.php:634
+msgid "Canadian Dollar"
+msgstr ""
+
+#: html/OptionsPage.php:635
+msgid "Czech Koruna"
+msgstr ""
+
+#: html/OptionsPage.php:636
+msgid "Danish Krone"
+msgstr ""
+
+#: html/OptionsPage.php:637
+msgid "Euro"
+msgstr ""
+
+#: html/OptionsPage.php:638
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: html/OptionsPage.php:639
+msgid "Hungarian Forint"
+msgstr ""
+
+#: html/OptionsPage.php:640
+msgid "Israeli New Sheqel"
+msgstr ""
+
+#: html/OptionsPage.php:641
+msgid "Japanese Yen"
+msgstr ""
+
+#: html/OptionsPage.php:642
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: html/OptionsPage.php:643
+msgid "Mexican Peso"
+msgstr ""
+
+#: html/OptionsPage.php:644
+msgid "Norwegian Krone"
+msgstr ""
+
+#: html/OptionsPage.php:645
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: html/OptionsPage.php:646
+msgid "Philippine Peso"
+msgstr ""
+
+#: html/OptionsPage.php:647
+msgid "Polish Zloty"
+msgstr ""
+
+#: html/OptionsPage.php:648
+msgid "Pound Sterling"
+msgstr ""
+
+#: html/OptionsPage.php:649
+msgid "Russian Ruble"
+msgstr ""
+
+#: html/OptionsPage.php:650
+msgid "Singapore Dollar"
+msgstr ""
+
+#: html/OptionsPage.php:651
+msgid "Swedish Krona"
+msgstr ""
+
+#: html/OptionsPage.php:652
+msgid "Swiss Franc"
+msgstr ""
+
+#: html/OptionsPage.php:653
+msgid "Taiwan New Dollar"
+msgstr ""
+
+#: html/OptionsPage.php:654
+msgid "Thai Baht"
+msgstr ""
+
+#: html/OptionsPage.php:655
+msgid "Turkish Lira"
+msgstr ""
+
+#: html/OptionsPage.php:656
+msgid "U.S. Dollar"
+msgstr ""
+
+#: html/OptionsPage.php:697
+msgid "WooCommerce Options"
+msgstr ""
+
+#: html/OptionsPage.php:908
+msgid "Zendesk Options"
+msgstr ""
+
+#: html/OptionsPage.php:957
+msgid "Tracking Forms"
+msgstr ""
+
+#: html/OptionsPage.php:961
+msgid "Tracking Form"
+msgstr ""
+
+#: html/OptionsPage.php:965
+msgid "Tracking Form Title"
+msgstr ""
+
+#: html/OptionsPage.php:969
+msgid "Order Number Label"
+msgstr ""
+
+#: html/OptionsPage.php:973
+msgid "Order Number Placeholder"
+msgstr ""
+
+#: html/OptionsPage.php:977 html/OptionsPage.php:1010 html/OptionsPage.php:1043
+msgid "Email Address"
+msgstr ""
+
+#: html/OptionsPage.php:981 html/OptionsPage.php:1014 html/OptionsPage.php:1047
+msgid "Email Address Placeholder"
+msgstr ""
+
+#: html/OptionsPage.php:985 html/OptionsPage.php:1018 html/OptionsPage.php:1051
+msgid "Track button"
+msgstr ""
+
+#: html/OptionsPage.php:991
+msgid "Customer Form"
+msgstr ""
+
+#: html/OptionsPage.php:998 html/OptionsPage.php:1031
+msgid "Instructions"
+msgstr ""
+
+#: html/OptionsPage.php:1002
+msgid "Customer Number Label"
+msgstr ""
+
+#: html/OptionsPage.php:1006
+msgid "Customer Number Placeholder"
+msgstr ""
+
+#: html/OptionsPage.php:1024
+msgid "Sales Rep Form"
+msgstr ""
+
+#: html/OptionsPage.php:1035
+msgid "Sales Rep Number Label"
+msgstr ""
+
+#: html/OptionsPage.php:1039
+msgid "Sales Rep Number Placeholder"
+msgstr ""
+
+#: html/OptionsPage.php:1069
+msgid "Order Display Pages"
+msgstr ""
+
+#: html/OptionsPage.php:1073
+msgid "Order Display Page"
+msgstr ""
+
+#: html/OptionsPage.php:1113
+msgid "Print Button"
+msgstr ""
+
+#: html/OptionsPage.php:1117
+msgid "Add Note Button"
+msgstr ""
+
+#: html/OptionsPage.php:1123
+msgid "Customer Form Display Page"
+msgstr ""
+
+#: html/OptionsPage.php:1134
+msgid "Download All Orders"
+msgstr ""
+
+#: html/OptionsPage.php:1140
+msgid "Sales Rep Form Display Page"
+msgstr ""
+
+#: html/OptionsPage.php:1165
+msgid "Customer Order Form"
+msgstr ""
+
+#: html/OptionsPage.php:1180
+msgid "Email Instructions"
+msgstr ""
+
+#: html/OptionsPage.php:1188
+msgid "Send Order button"
+msgstr ""
+
+#: html/OptionsPage.php:1192
+msgid "Thank You Message"
+msgstr ""
+
+#: html/OptionsPage.php:1214
+msgid "Title - Order Information"
+msgstr ""
+
+#: html/OptionsPage.php:1218 html/OptionsPage.php:1368
+msgid "Text"
+msgstr ""
+
+#: html/OptionsPage.php:1221 html/OptionsPage.php:1280
+#: html/OptionsPage.php:1306
+msgid "Color"
+msgstr ""
+
+#: html/OptionsPage.php:1230 html/OptionsPage.php:1289
+#: html/OptionsPage.php:1315
+msgid "Font Family"
+msgstr ""
+
+#: html/OptionsPage.php:1236 html/OptionsPage.php:1295
+#: html/OptionsPage.php:1321
+msgid "Font Size"
+msgstr ""
+
+#: html/OptionsPage.php:1244 html/OptionsPage.php:1329
+msgid "Spacing"
+msgstr ""
+
+#: html/OptionsPage.php:1247
+msgid "Title Margin"
+msgstr ""
+
+#: html/OptionsPage.php:1253
+msgid "Title Padding"
+msgstr ""
+
+#: html/OptionsPage.php:1273
+msgid "Body"
+msgstr ""
+
+#: html/OptionsPage.php:1277
+msgid "Field Labels"
+msgstr ""
+
+#: html/OptionsPage.php:1303
+msgid "Field Content"
+msgstr ""
+
+#: html/OptionsPage.php:1332
+msgid "Body Margin"
+msgstr ""
+
+#: html/OptionsPage.php:1338
+msgid "Body Padding"
+msgstr ""
+
+#: html/OptionsPage.php:1358 html/OptionsPage.php:1362
+msgid "Buttons"
+msgstr ""
+
+#: html/OptionsPage.php:1365
+msgid "Colors"
+msgstr ""
+
+#: html/OptionsPage.php:1372
+msgid "Background"
+msgstr ""
+
+#: html/OptionsPage.php:1378
+msgid "Border"
+msgstr ""
+
+#: html/OptionsPage.php:1384
+msgid "Margin"
+msgstr ""
+
+#: html/OptionsPage.php:1390
+msgid "Padding"
+msgstr ""
+
+#: html/OrdersDetails.php:27 html/OrdersDetails.php:190
+msgid "Edit Order"
+msgstr ""
+
+#: html/OrdersDetails.php:153
+msgid "Order Status History"
+msgstr ""
+
+#: html/OrdersDetails.php:158 html/OrdersDetails.php:176
+msgid "Delete?"
+msgstr ""
+
+#: html/OrdersDetails.php:161 html/OrdersDetails.php:179
+msgid "Status Date/Time"
+msgstr ""
+
+#: html/OrdersPage.php:16 html/OrdersPage.php:294 html/OrdersPage.php:459
+msgid "Add New Order"
+msgstr ""
+
+#: html/OrdersPage.php:18
+msgid "Manually"
+msgstr ""
+
+#: html/OrdersPage.php:19
+msgid "From Spreadsheet"
+msgstr ""
+
+#: html/OrdersPage.php:23
+msgid "Export Orders to Spreasheet"
+msgstr ""
+
+#: html/OrdersPage.php:27
+msgid "Export to Excel"
+msgstr ""
+
+#: html/OrdersPage.php:30
+msgid ""
+"The full version of the Status Tracking Plugin is required to export "
+"products."
+msgstr ""
+
+#: html/OrdersPage.php:30
+msgid "Please upgrade to unlock this feature!"
+msgstr ""
+
+#: html/OrdersPage.php:93
+msgid "Hide Order"
+msgstr ""
+
+#: html/OrdersPage.php:242
+msgid "Hide"
+msgstr ""
+
+#: html/OrdersPage.php:303
+msgid "The name of the order your users will see."
+msgstr ""
+
+#: html/OrdersPage.php:308
+msgid "The number that visitors will search to find the order."
+msgstr ""
+
+#: html/OrdersPage.php:323
+msgid "The status that visitors will see if they enter the order number."
+msgstr ""
+
+#: html/OrdersPage.php:334
+msgid "The location that visitors will see if they enter the order number."
+msgstr ""
+
+#: html/OrdersPage.php:344
+msgid "The customer that this order is associated with."
+msgstr ""
+
+#: html/OrdersPage.php:360
+msgid "The sales rep that this order is associated with."
+msgstr ""
+
+#: html/OrdersPage.php:367
+msgid "The amount that should be paid via PayPal for this order."
+msgstr ""
+
+#: html/OrdersPage.php:373
+msgid ""
+"Has the payment for this order been made? This field should automatically "
+"update when payment is made for this order."
+msgstr ""
+
+#: html/OrdersPage.php:378
+msgid ""
+"The transaction ID generated by PayPal for this order once th payment is "
+"made (leave blank until payment is made)."
+msgstr ""
+
+#: html/OrdersPage.php:384
+msgid ""
+"The notes that visitors will see if they enter the order number, and you've "
+"included 'Notes' on the options page."
+msgstr ""
+
+#: html/OrdersPage.php:389
+msgid "The notes about an order visible only to admins."
+msgstr ""
+
+#: html/OrdersPage.php:465
+msgid "Add/Update Orders from Spreadsheet"
+msgstr ""
+
+#: html/OrdersPage.php:470
+msgid ""
+"The spreadsheet containing the orders you wish to add. Make sure that the "
+"column title names are the same as the field names for orders (ex: Name, "
+"Number, Status, etc.), and that any statuses are written exactly the same as "
+"they are online. To update an order, make sure the order numbers are exactly "
+"the same."
+msgstr ""
+
+#: html/OrdersPage.php:472
+msgid "Add New Orders"
+msgstr ""
+
+#: html/OrdersPage.php:478
+msgid ""
+"The full version of Order Tracking is required to use spreadsheet uploads."
+msgstr ""
+
+#: html/SalesRepDetails.php:6
+msgid "Sales Rep Orders"
+msgstr ""
+
+#: html/SalesRepDetails.php:46
+msgid " (Sales Rep ID: "
+msgstr ""
+
+#: html/SalesRepDetails.php:53 html/SalesRepsPage.php:62
+#: html/SalesRepsPage.php:94 html/SalesRepsPage.php:189
+msgid "First Name"
+msgstr ""
+
+#: html/SalesRepDetails.php:55 html/SalesRepsPage.php:191
+msgid "The first name of the sales rep."
+msgstr ""
+
+#: html/SalesRepDetails.php:58 html/SalesRepsPage.php:69
+#: html/SalesRepsPage.php:101 html/SalesRepsPage.php:194
+msgid "Last Name"
+msgstr ""
+
+#: html/SalesRepDetails.php:60 html/SalesRepsPage.php:196
+msgid "The last name of the sales rep."
+msgstr ""
+
+#: html/SalesRepDetails.php:65 html/SalesRepsPage.php:201
+msgid "The email address of the sales rep."
+msgstr ""
+
+#: html/SalesRepDetails.php:68 html/SalesRepsPage.php:204
+msgid "Sales Rep WP Username:"
+msgstr ""
+
+#: html/SalesRepDetails.php:81 html/SalesRepsPage.php:215
+msgid ""
+"What WordPress user should be able to update the orders assigned to this "
+"Sales Rep?"
+msgstr ""
+
+#: html/SalesRepsPage.php:55 html/SalesRepsPage.php:87
+msgid "Rep ID"
+msgstr ""
+
+#: html/SalesRepsPage.php:183
+msgid "Add a New Sales Rep"
+msgstr ""
+
+#: html/SalesRepsPage.php:282
+msgid "Add New Sales Rep"
+msgstr ""
+
+#: html/SalesRepsPage.php:291
+msgid ""
+"The full version of Order Tracking is required to the sales rep feature."
+msgstr ""
+
+#: html/StatisticsPage.php:86
+msgid "The full version of Status Tracking is required to use statistics."
+msgstr ""
+
+#: html/StatusesPage.php:17 html/StatusesPage.php:26
+msgid "&#37; Complete"
+msgstr ""
+
+#: html/StatusesPage.php:19 html/StatusesPage.php:28
+msgid "Internal Status"
+msgstr ""
+
+#: html/StatusesPage.php:75
+msgid "Name of Status"
+msgstr ""
+
+#: html/StatusesPage.php:79
+msgid "Percentage Complete"
+msgstr ""
+
+#: html/StatusesPage.php:81
+msgid ""
+"The percentage of the shipping process completed when this status is "
+"reached. Used in the shipping graphic."
+msgstr ""
+
+#: html/StatusesPage.php:97
+msgid ""
+"Which email should be sent when this status is selected? (Emailing frequency "
+"needs to be set to 'On Change'."
+msgstr ""
+
+#: html/StatusesPage.php:100
+msgid "Internal Status?"
+msgstr ""
+
+#: html/StatusesPage.php:105
+msgid "Should this status only be seen by admins and sales reps?"
+msgstr ""

@@ -1,0 +1,13 @@
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  .ewd-otp-tracking-results * {
+    visibility: visible;
+  }
+  .ewd-otp-tracking-results {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
